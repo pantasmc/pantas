@@ -1,4 +1,5 @@
-operatorItemsTab:trueSW
+version:4189
+operatorItemsTab:true
 darkMojangStudiosBackground:true
 advancedItemTooltips:true
 skipMultiplayerWarning:true
