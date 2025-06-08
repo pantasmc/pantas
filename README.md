@@ -4,7 +4,7 @@
 
 ---
 
-An opinionated Minecraft modpack crafted for modern, high-performance gameplay.
+An essential Minecraft modpack crafted for modern, high-performance gameplay.
 
 </div>
 
@@ -29,9 +29,9 @@ Pantas comes in different variants to match your specific needs and hardware cap
 
 ## Which Variant to Choose?
 
-- **New to Minecraft modpacks?** → **Standard** variant
-- **OptiFine user switching to Fabric?** → **Standard** variant  
-- **Want maximum performance?** → **Minimal** variant
+- **New to Minecraft modpacks?** ➡ **Standard** variant
+- **OptiFine user switching to Fabric?** ➡ **Standard** variant  
+- **Want maximum performance?** ➡ **Minimal** variant
 
 # 📋 Release Versioning
 
@@ -49,7 +49,7 @@ Example Version Format: `1.21.4-1.0.0`
 
 ## New Minecraft Versions
 
-When Minecraft updates (like `1.21.4` → `1.21.5`), the modpack version resets to `1.0.0` since mod compatibility often requires starting fresh.
+When Minecraft updates (like `1.21.4` ➡ `1.21.5`), the modpack version resets to `1.0.0` since mod compatibility often requires starting fresh.
 
 # 🛠️ Support & Feedback
 
