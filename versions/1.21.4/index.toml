@@ -1,22 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "715da152e964950340a45684887598b9d68cba17402f059d4f24364b4639b5be"
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
-metafile = true
-
-[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "8c328fbe4e513fc61f221926fe79db047008e3acc776eb141756f4843728ebc4"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "783f6391e53272943cce060fd820d1c5b7cbdf94df1341f250bf09eaa296171c"
+file = "mods/bigshot.pw.toml"
+hash = "ddcd1755d29dd89026531e1e2ff9da9687429f776b95eb3f10a5e583dc5da0c6"
 metafile = true
 
 [[files]]
@@ -35,23 +26,18 @@ hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "87c70ef6eabcd2428ccc10b5b7cbbe215cf48694b6ebe9d4e1a1f4923273bd97"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "34ef3b2634e0c8466530e488cc024ea95dfcf70d378599aa8c8b54d901bff0c5"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
 metafile = true
 
 [[files]]
@@ -70,11 +56,6 @@ hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "bf072ed0f2963e23b67de686d4b650e7f2d88fd593de65d0cb0c661b9c441662"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
@@ -82,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
 
 [[files]]
@@ -105,8 +91,18 @@ hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "f27d2387b3236378fca54f60d940a7d543f4c479497735b4a16a334705981103"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
 metafile = true
 
 [[files]]
@@ -130,13 +126,18 @@ hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "108aae1d2a8f03fffeb5f36e874d378d521f9779cf476e4e60b7f2a8043252f6"
+file = "mods/moremcmeta.pw.toml"
+hash = "874a6cc4a8617f0e909449da4edb9b50e5ade6d6fc1dbdf0489a4af31d9e2bbc"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "a3b6cfe494d8ca3b080ce18d94d3218d7a76545d8b05e3f0b92a2b15c45c97dd"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
 metafile = true
 
 [[files]]
@@ -146,7 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "8693fcbeb82c4aeb8be9a85e9cd150555a475ebca62491a2940c5e7ef092f2f3"
+hash = "dbd855235acba3433bce72af61138ad37de733c81537bed6ce963eefbdb9755d"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "af416ddf58beeb89452503266f7aedf39d4a1c20ccc36c9b40632c22a6b91b7b"
 metafile = true
 
 [[files]]
@@ -172,4 +178,9 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "2fed8d4f5a2f794b9b2ce0af6151f1b6aba91fb32ac53e642c098de57c21683e"
 metafile = true
