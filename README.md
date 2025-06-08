@@ -4,6 +4,6 @@
 
 ---
 
-My personal Minecraft modpack designed as a modern, high-performance alternative to [OptiFine](https://optifine.net).
+An opinionated Minecraft modpack crafted for modern, high-performance gameplay.
 
 </div>
