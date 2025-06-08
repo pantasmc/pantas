@@ -1,0 +1,13 @@
+name = "pantas"
+author = "muhdfdeen"
+version = "1.21.4-2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e558f0d85bd0897a8806103c4f040578a9c7678bcb39257db4357b32f1baee4c"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.4"

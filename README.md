@@ -8,6 +8,12 @@ An opinionated Minecraft modpack crafted for modern, high-performance gameplay.
 
 </div>
 
+## Why I Created Pantas
+
+Most existing modpacks include unnecessary mods or miss essential ones. Some add cosmetic features I find pointless, while others lack crucial performance optimizations. Rather than compromise, I built exactly what I wanted. When sharing a modpack with friends for plug-and-play gaming, this is what I give them.
+
+Pantas is my curated selection of what makes Minecraft better: essential performance improvements, visual enhancements, and quality-of-life features. Every mod serves a purpose in my ideal setup.
+
 ## Key Features
 
 ### Performance-Focused Design
