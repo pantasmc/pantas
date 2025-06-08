@@ -21,3 +21,11 @@ Enjoy modern rendering improvements with shader support, connected textures, dyn
 ### Quality of Life Improvements
 
 Features handpicked gameplay enhancements including improved UI elements, controller support, and visual refinements that keep the vanilla Minecraft feel while making everything just a bit better.
+
+## Support & Feedback
+
+Found a bug, have a suggestion, or need help with an issue? The best way to get support is on our GitHub.
+
+### Reporting Bugs & Suggesting Features
+
+Please open an issue on our [GitHub issue tracker](https://github.com/muhdfdeen/pantas/issues) for all bug reports, questions, and suggestions.
