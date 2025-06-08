@@ -8,30 +8,35 @@ An opinionated Minecraft modpack crafted for modern, high-performance gameplay.
 
 </div>
 
-## Why I Created Pantas
+# Variants
 
-Most existing modpacks include unnecessary mods or miss essential ones. Some add cosmetic features I find pointless, while others lack crucial performance optimizations. Rather than compromise, I built exactly what I wanted. When sharing a modpack with friends for plug-and-play gaming, this is what I give them.
+Pantas comes in different variants to match your specific needs and hardware capabilities. Each variant builds upon the previous one, allowing you to choose the perfect balance between performance and features.
 
-Pantas is my curated selection of what makes Minecraft better: essential performance improvements, visual enhancements, and quality-of-life features. Every mod serves a purpose in my ideal setup.
+## 🚀 Minimal
+- **Pure performance focus** - Essential mods for maximum FPS with core fixes only. Perfect for competitive players, lower-end hardware, or maximum performance seekers.
+- Features:
+    - Performance optimizations (Sodium, Lithium, C2ME)
+    - Bug fixes and stability improvements
 
-## Key Features
+## ⚡ Core
+- **OptiFine alternative** - Building on Minimal with near-complete OptiFine feature parity plus essential additions. Perfect for most players, OptiFine users switching to Fabric, or anyone wanting the standard experience.
+- Features:
+    - Everything in Minimal, plus:
+    - Shader support (Iris)
+    - Connected textures (Continuity) 
+    - Dynamic lighting and zoom capabilities
+    - Enhanced UI and mod management
 
-### Performance-Focused Design
+## Which Variant to Choose?
 
-Pantas brings you optimized Minecraft performance with thoughtfully selected mods like [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium), and other performance boosters. Experience smoother gameplay and better system stability, no matter your hardware setup.
+- **New to Minecraft modpacks?** → **Core** variant
+- **OptiFine user switching to Fabric?** → **Core** variant  
+- **Want maximum performance?** → **Minimal** variant
 
-### Enhanced Visual Experience
-
-Enjoy modern rendering improvements with shader support, connected textures, dynamic lighting, and zoom capabilities. Most OptiFine-compatible resource packs work right out of the box.
-
-### Quality of Life Improvements
-
-Features handpicked gameplay enhancements including improved UI elements, controller support, and visual refinements that keep the vanilla Minecraft feel while making everything just a bit better.
-
-## Support & Feedback
+# Support & Feedback
 
 Found a bug, have a suggestion, or need help with an issue? The best way to get support is on our GitHub.
 
-### Reporting Bugs & Suggesting Features
+## Reporting Bugs & Suggesting Features
 
 Please open an issue on our [GitHub issue tracker](https://github.com/muhdfdeen/pantas/issues) for all bug reports, questions, and suggestions.
