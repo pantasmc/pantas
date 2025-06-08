@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "0640ffb0768a1776d19ccc895dae1ab206b46731f959a1f295f1e5e9da23efed"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "d4c87d4c89e3cb81a28e3fca76f5a878d3c140c53c8ac835ae16346c9cc4c839"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "7424a089f5c5056e1e7e0859c8cc8f001084d0869a3c6c13d23b995f62731978"
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "8c328fbe4e513fc61f221926fe79db047008e3acc776eb141756f4843728ebc4"
 metafile = true
