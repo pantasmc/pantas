@@ -57,4 +57,4 @@ Found a bug, have a suggestion, or need help with an issue? The best way to get 
 
 ## Reporting Bugs & Suggesting Features
 
-Please open an issue on our [GitHub issue tracker](https://github.com/muhdfdeen/pantas/issues) for all bug reports, questions, and suggestions.
+Please open an issue on our [GitHub issue tracker](https://github.com/pantasmc/pantas/issues) for all bug reports, questions, and suggestions.
