@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/controlify.json"
-hash = "0640ffb0768a1776d19ccc895dae1ab206b46731f959a1f295f1e5e9da23efed"
-
-[[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "d4c87d4c89e3cb81a28e3fca76f5a878d3c140c53c8ac835ae16346c9cc4c839"
 
