@@ -1,0 +1,119 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "d4c87d4c89e3cb81a28e3fca76f5a878d3c140c53c8ac835ae16346c9cc4c839"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "91deb22171731b62adcfc85b4914681ba5a3935652c99c652ca7faafd36bd247"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "b142575f02e92313bbf70fa85b0a3ae18b23d5da7bb8811b0012dbe5d5fe597a"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "23390454f494dbb66977daa53d9fd524c063be3763198976625fb301707160e4"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "3c93ec937ac334843447418da8f7f810cdf32a8c21b90eafc39c7604cf7c32f6"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f4d7523b2a6d6c167ecf2e19964898f1fcdf060a15553b05fa1d5dd41a56c373"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a9790b94803106e4a07bbe1e72759ec91a18423f10fbede249a7071986fe79d0"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6cc7fdbe5cf08f29ec6628c945842eea6efb41e9e82c21f24c135175fcd62132"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "04a0a9dbadcd984094096c53f330477fe863ef98dab94bc88a07bd2d5f6246ff"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "6d9742689a524965f89b5cb1194e4422f2454911a026fd9e98dce82db4a12157"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "3757358160dfb328116467cebdc7987ce404e272dacaf271e0c538693dd32223"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true

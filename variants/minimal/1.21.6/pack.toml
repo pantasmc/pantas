@@ -1,0 +1,13 @@
+name = "Pantas Minimal"
+author = "pantasmc"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5d050796e2da62c718d968222fec6d7aa803a6c6082bbf34dca212aab550bd7b"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.6"
