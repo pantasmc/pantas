@@ -10,12 +10,12 @@ hash = "91deb22171731b62adcfc85b4914681ba5a3935652c99c652ca7faafd36bd247"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "8c328fbe4e513fc61f221926fe79db047008e3acc776eb141756f4843728ebc4"
+hash = "321066a558542e9b7caeb2e3a93eb4bddd4d3fc2e3d39afbd02e902b17c8f897"
 metafile = true
 
 [[files]]
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "34ef3b2634e0c8466530e488cc024ea95dfcf70d378599aa8c8b54d901bff0c5"
+hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "f27d2387b3236378fca54f60d940a7d543f4c479497735b4a16a334705981103"
+hash = "aeee628da27bde07e28866859d52ce5f45e45fb39fcc4e5cb48cfb9174b3cc69"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
+hash = "10f163a2191248c9e512c162a4697e954df7d4a5d837260ec01ac81be6c5447d"
 metafile = true
 
 [[files]]
