@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
+hash = "f91706e274edf8016379c50d22d607dc344754f051b7cf30835c0e758ba995e0"
 metafile = true
 
 [[files]]
@@ -101,11 +101,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "c0c0d6ca3bb068a7b94fc2a849fb334b11cc92dbd5964061d1307c11df073720"
-metafile = true
-
-[[files]]
-file = "mods/language-reload.pw.toml"
-hash = "fd344aa2c329dbb6b894ac1fcda5e82e1a965967a3dd7493b7a3e0a6eccc2226"
 metafile = true
 
 [[files]]
