@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a63069aac3fc618562c8f4fa4f76e0bd3625a90f53d1dc3ff4974862d54dde20"
+hash = "02cd8c09f7bf92fbc852338e45af3af980a40e52fae6aca14e3c1530645bdb33"
 metafile = true
 
 [[files]]
@@ -104,11 +104,6 @@ hash = "06d953295265b2f415532373736703632cbddcfe916a8f6534ab3006f57a6c4f"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "aeee628da27bde07e28866859d52ce5f45e45fb39fcc4e5cb48cfb9174b3cc69"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
@@ -141,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "108aae1d2a8f03fffeb5f36e874d378d521f9779cf476e4e60b7f2a8043252f6"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "874a6cc4a8617f0e909449da4edb9b50e5ade6d6fc1dbdf0489a4af31d9e2bbc"
 metafile = true
 
 [[files]]
