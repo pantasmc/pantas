@@ -2,8 +2,8 @@
     "main_menu": {
         "bottom_left": [
             {
-                "text": "Pantas (Modrinth)",
-                "color": "#e5a463",
+                "text": "Pantas 1.21.6-1.0.0",
+                "color": "#fab387",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://modrinth.com/modpack/pantas"
@@ -15,8 +15,8 @@
     "pause_menu": {
         "bottom_left": [
             {
-                "text": "Pantas (Modrinth)",
-                "color": "#e5a463",
+                "text": "Pantas 1.21.6-1.0.0",
+                "color": "#fab387",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://modrinth.com/modpack/pantas"

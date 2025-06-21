@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "d4c87d4c89e3cb81a28e3fca76f5a878d3c140c53c8ac835ae16346c9cc4c839"
+hash = "33313d561a79ae8b8484806b3498e6e0dc2e52c14dbfb61f9f2a372e662b0f01"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "91deb22171731b62adcfc85b4914681ba5a3935652c99c652ca7faafd36bd247"
+hash = "38a7c79893829411b1e07a02c39eddf6f263a9a6332b3c950122b7a9122ab05a"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -104,6 +104,11 @@ hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "04a0a9dbadcd984094096c53f330477fe863ef98dab94bc88a07bd2d5f6246ff"
 metafile = true
@@ -136,4 +141,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
