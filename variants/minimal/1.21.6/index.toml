@@ -11,13 +11,28 @@ hash = "23390454f494dbb66977daa53d9fd524c063be3763198976625fb301707160e4"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "3c93ec937ac334843447418da8f7f810cdf32a8c21b90eafc39c7604cf7c32f6"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "28204de4900d8a33b63369909abded5d81e02451a1496f54a7555cd125a81e70"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "d2d5f8478253db74c12b52e07a342ee52641f8feb57243ce15841e0b3b883c04"
 metafile = true
 
 [[files]]
