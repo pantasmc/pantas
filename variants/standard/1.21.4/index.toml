@@ -9,6 +9,11 @@ file = "config/yosbr/options.txt"
 hash = "91deb22171731b62adcfc85b4914681ba5a3935652c99c652ca7faafd36bd247"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "c5048fc150b79625fe3304de6b57643436f6e232f4f5493cbe0476494e54120e"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
@@ -75,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -136,11 +141,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "108aae1d2a8f03fffeb5f36e874d378d521f9779cf476e4e60b7f2a8043252f6"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "874a6cc4a8617f0e909449da4edb9b50e5ade6d6fc1dbdf0489a4af31d9e2bbc"
 metafile = true
 
 [[files]]
