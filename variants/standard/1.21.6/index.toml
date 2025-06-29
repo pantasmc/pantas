@@ -9,6 +9,11 @@ file = "config/yosbr/options.txt"
 hash = "38a7c79893829411b1e07a02c39eddf6f263a9a6332b3c950122b7a9122ab05a"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "78dde53c09d55cc6023d57f7a8720948f72fb8fa451cb6413e4486708e9bfdcb"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
@@ -29,8 +34,13 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "fd8d353e993cf0f7cfe2c43cded5fdfc53f8a3432228acda844234f2653c56c1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c93ec937ac334843447418da8f7f810cdf32a8c21b90eafc39c7604cf7c32f6"
+hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
 
 [[files]]
@@ -50,12 +60,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
+hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -94,6 +104,11 @@ hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "e92948dd77b9540add300bb71221132ec807cff15f958f8df62bb4b813b927fe"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
 metafile = true
@@ -109,6 +124,11 @@ hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "4e1dd52be6541751029a370a02c83cc663a8be8b62187a4aa273ca02a154fc37"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "04a0a9dbadcd984094096c53f330477fe863ef98dab94bc88a07bd2d5f6246ff"
 metafile = true
@@ -120,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "2fc3c6f23ef2be97f17c1d8c525895909e88af1fbd8d04136e58e6dc67a25b4c"
+hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
 
 [[files]]
@@ -135,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "9ab7a3889a5406ccc111f464dc998e889c9801f0b1b4017de8830a39c44a6a61"
+hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
 metafile = true
 
 [[files]]
