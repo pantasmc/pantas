@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c93ec937ac334843447418da8f7f810cdf32a8c21b90eafc39c7604cf7c32f6"
+hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
+hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
 metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "d2d5f8478253db74c12b52e07a342ee52641f8feb57243ce15841e0b3b883c04"
+hash = "3959d60960d97b019d81945ebfd38ed498649b31952e84404b365730c9facb6f"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a9790b94803106e4a07bbe1e72759ec91a18423f10fbede249a7071986fe79d0"
+hash = "3b40d08928ac413cc62a4fc93497aad63b3928f1aa5d94abe36c6239871e979f"
 metafile = true
 
 [[files]]
