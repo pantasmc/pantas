@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "33313d561a79ae8b8484806b3498e6e0dc2e52c14dbfb61f9f2a372e662b0f01"
+hash = "0d11a8a8c786fb01f907a9424b3d655e930caebc83436ca5b2b0438eba07212a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "38a7c79893829411b1e07a02c39eddf6f263a9a6332b3c950122b7a9122ab05a"
+hash = "47be562c36da87f09d672e8f90f45db6f3e0e14e25dce29fbfbab17ee06abeee"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -26,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
 metafile = true
 
 [[files]]
