@@ -10,19 +10,10 @@ An essential Minecraft modpack crafted for modern, high-performance gameplay.
 
 ## 🎯 Variants
 
-Pantas offers three variants designed for different performance needs and hardware configurations.
-
-### Minimal
-Essential performance mods with core fixes for maximum FPS.
-- Performance optimizations (Sodium, Lithium, C2ME)
-- Bug fixes and stability improvements
+Pantas offers two variants designed for different needs.
 
 ### Standard
-Includes Minimal features plus OptiFine feature parity and essential additions.
-- Shader support (Iris)
-- Connected textures (Continuity) 
-- Dynamic lighting and zoom capabilities
-- Enhanced UI and mod management
+Includes basic performance mods plus OptiFine feature parity and essential additions.
 
 ### Plus
 Builds on Standard with quality-of-life enhancements and gameplay improvements.
@@ -30,13 +21,6 @@ Builds on Standard with quality-of-life enhancements and gameplay improvements.
 - Minimap and navigation (Xaero's Minimap)
 - Inventory management (Inventory Profiles Next)
 - Controller support (Controlify)
-
-### Which Variant to Choose?
-
-- **New to Minecraft modpacks?** Start with **Standard** for a balanced experience
-- **Coming from OptiFine?** Try **Standard** for familiar features on Fabric
-- **Need maximum performance?** Choose **Minimal** for essential optimizations only
-- **Want enhanced gameplay?** Select **Plus** for additional quality-of-life features
 
 ## 📋 Release Versioning
 
