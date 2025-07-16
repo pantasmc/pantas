@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "be264ec8aab116f4faf3bed63ddb6b7717aaecdc83e4d92a7c5955c2b86ab69a"
+hash = "5e8d15623e52129dcfa1b37a9376d1b5823154ed3fe02b413d9530b947edc45e"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
+hash = "e63121dc71d3caaf9f872cf3a1869f86945ba9132599cba085a858f2209c503c"
 metafile = true
 
 [[files]]
