@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "954670345da41769adc74e2cae59b13dc59c4497b14e9b8d1ed7191748e19f7b"
+hash = "fca3edd0cc010fe9bb52ddcaff01d8033ad0fecc81426aca2b55246cd366ca4d"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
+hash = "e63121dc71d3caaf9f872cf3a1869f86945ba9132599cba085a858f2209c503c"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "faf41d6f2f044a6d3153e7ff60ab362646f9f4f693716581061c3b6a8d29885f"
+hash = "0fc0d37841ccb880e89c108287287452a240f3beafa6511e02aa996cbfc02791"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7ed99a6e72f251d30a918d66448f5dac06b94e903fb0afa62b6b5ea2c132058e"
+hash = "7a42ef83b689db8a756339351aeac519188c2c8bbe2784a9a17b67bcf0383e98"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c8b5a1924109b9103d1fd65c23ae18b00fc3b20720a0060d83e1ae3b5fda86e8"
+hash = "40630d6f1fdd0011a3aa9270af99b331103a9eaed6e7832650e85b325a50bc85"
 metafile = true
 
 [[files]]
