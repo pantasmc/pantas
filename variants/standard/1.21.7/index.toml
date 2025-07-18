@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "5e8d15623e52129dcfa1b37a9376d1b5823154ed3fe02b413d9530b947edc45e"
+hash = "079a71141fe2f30588930dd3e03dd1122606650ef9ea93d89e27123f378a0bbb"
 
 [[files]]
 file = "config/yosbr/options.txt"
