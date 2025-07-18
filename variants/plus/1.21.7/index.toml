@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "fca3edd0cc010fe9bb52ddcaff01d8033ad0fecc81426aca2b55246cd366ca4d"
+hash = "2516c77f8a00d1ad2669a8779431192e32ac7f7eef38c408c6621cf00c0d4318"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -39,11 +39,6 @@ hash = "e63121dc71d3caaf9f872cf3a1869f86945ba9132599cba085a858f2209c503c"
 metafile = true
 
 [[files]]
-file = "mods/cicada.pw.toml"
-hash = "703c88f1daf1eb94217ed4e084413416746ea8eb99204282fd64228ed44e8320"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
@@ -69,11 +64,6 @@ hash = "bbf9d695a6bc75a6126aa49591f2ac0545bc3c20e370949ce3b4105b9405fb8a"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "b92711504487ef0b5c06ab6d98552e964e3ac2bc2992fe512af4449243961929"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
@@ -85,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cf5fa2962068a4975d4adbce3abcf0d34ca316e3b81f21f4d2707853f5192755"
+hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
 metafile = true
 
 [[files]]
@@ -119,11 +109,6 @@ hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "0fc0d37841ccb880e89c108287287452a240f3beafa6511e02aa996cbfc02791"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
 metafile = true
@@ -136,11 +121,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "7a42ef83b689db8a756339351aeac519188c2c8bbe2784a9a17b67bcf0383e98"
 metafile = true
 
 [[files]]
@@ -221,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "529e78bd1891441addb1500852b01b934500d14dbd5c8362dba1f172db0ba181"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d30c99840d3ecd0b1ca1a4023e3b956c781ad06a3b44705e5494d04a31c9abf3"
 metafile = true
 
 [[files]]
