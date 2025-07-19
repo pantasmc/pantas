@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "5e8d15623e52129dcfa1b37a9376d1b5823154ed3fe02b413d9530b947edc45e"
+hash = "b0e419db9f073c5494e8263c1ce7321b8520e5817a1890d667d5c73f5e606376"
 
 [[files]]
 file = "mods/animatica.pw.toml"
