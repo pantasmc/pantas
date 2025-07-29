@@ -2,7 +2,7 @@
     "main_menu": {
         "bottom_left": [
             {
-                "text": "Pantas 1.21.8-1.0.0",
+                "text": "Pantas 1.21.8-1.0.1",
                 "color": "#fab387",
                 "clickEvent": {
                     "action": "open_url",
@@ -15,7 +15,7 @@
     "pause_menu": {
         "bottom_left": [
             {
-                "text": "Pantas 1.21.8-1.0.0",
+                "text": "Pantas 1.21.8-1.0.1",
                 "color": "#fab387",
                 "clickEvent": {
                     "action": "open_url",
