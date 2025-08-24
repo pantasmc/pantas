@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
+hash = "01c5eb93a204f6b917b21aefd8e1c1268c8c0e63a9b6b34c4173bd7c8ff3dca5"
 metafile = true
 
 [[files]]
@@ -71,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e27164b011d0fdd2c60313e0fd7b33ff88c340c03d36a6f03ec1e9cdfd975456"
+hash = "17d4083ec0d10cc2f5ca3a750b864dff5def75aa6c71f434ab701e2123e1b02c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "ddeed7fa6ff29f278cd812813809acd97031f64a50edb17901f5a3c6c16c1af6"
+hash = "364747a29d538ceca8471b4cd4460b4875ce6e49ef4ed9ae6b768ddb54af2aff"
 metafile = true
 
 [[files]]
