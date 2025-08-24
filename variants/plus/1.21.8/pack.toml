@@ -1,13 +1,13 @@
 name = "pantas-plus"
 author = "pantasmc"
-version = "1.21.8-1.0.1"
+version = "1.21.8-1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b70d627729be4ebadfc459a5424630b8c99997cbb07b0c42e4a4dc2e8bb3fad6"
+hash = "f88b6ee6f3d4e2c26abc36bd4ce29d07df80d71f93f495be92c44589df197023"
 
 [versions]
-fabric = "0.17.0"
+fabric = "0.17.2"
 minecraft = "1.21.8"
