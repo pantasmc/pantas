@@ -1,12 +1,12 @@
 name = "pantas"
 author = "pantasmc"
-version = "1.21.8-1.0.2"
+version = "1.21.8-1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "89d1b38638efd09fdd0f8870d77401c3be162e40a3b4d9af82736d69b98b060a"
+hash = "6fafb24644459f665bf71f9eeb1e227676e9a98a8bf15f77fac203bb75a989e9"
 
 [versions]
 fabric = "0.17.2"
